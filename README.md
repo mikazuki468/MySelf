@@ -2,4 +2,4 @@
 - 👀 I’m interested in Cybersecurity & WebSite
 - 🌱 I’m currently learning C#, Java, .NET, Angular & Python
 - 💞️ I’m looking to collaborate on everyone
-- 📫 How to reach me mikazuki.augus@live.it
+- 📫 How to reach me mikazukiaugus@outlook.it
